@@ -1,6 +1,6 @@
 # Cleaning-directories-Git
 
-Git clean is a convenience method for deleting untracked files in a repo's working directory. Untracked files are those that are in the repo's directory but have not yet been added to the repo's index with git add.
+Git clean is a convenient method for deleting untracked files in a repo's working directory. Untracked files are those that are in the repo's directory but have not yet been added to the repo's index with git add.
 
 Common Git clean commands-
 
